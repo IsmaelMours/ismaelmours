@@ -23,7 +23,7 @@
 
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
 ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
 ![Chart.js](https://www.chartjs.org/media/logo-title.svg)
 <!-- Add more images for your tools and languages -->
 
