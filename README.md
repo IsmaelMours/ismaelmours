@@ -54,6 +54,12 @@ Experienced Backend Developer with over three years in full-stack development, s
   <img src="https://img.shields.io/badge/TESTING%20FOUNDATION-Coursera-brightgreen">
 </p>
 
+## GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/w/IsmaelMours/ismaelmours?style=flat-square" alt="Commit Activity">
+  <a href="https://github.com/IsmaelMours/ismaelmours"><img src="https://img.shields.io/badge/GitHub-Repository-brightgreen.svg?style=flat-square"></a>
+</p>
+
 ## Soft Skills
 - Self-starter, self-motivated, and a strong team player.
 - Excellent communication and interpersonal skills.
