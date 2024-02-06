@@ -1,8 +1,14 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://your-image-url.com/your-profile-image.png" alt="Ismael Mours" height="120" width="120">
+</p>
+
 # Ismael Mours - Backend Developer
 
-Johannesburg, Gauteng  
-Email: monnapuleismaelmours@gmail.com  
-Phone: +27-730-662-618
+<p align="center">
+  <a href="mailto:monnapuleismaelmours@gmail.com"><img src="https://img.shields.io/badge/Email-monnampuleismaelmours%40gmail.com-blue"></a>
+  <a href="tel:+27730662618"><img src="https://img.shields.io/badge/Phone-%2B27%20730%20662%20618-blue"></a>
+</p>
 
 ## Summary
 Experienced Backend Developer with over three years in full-stack development, specializing in Java and Spring Boot. Adept at crafting scalable solutions, prioritizing code quality, and optimizing performance for RESTful API design and seamless database integration.
@@ -31,19 +37,22 @@ Experienced Backend Developer with over three years in full-stack development, s
 - Utilized GitHub for version control, streamlining collaboration, code tracking, and deployment workflows.
 
 ## Technical Skills
-- Java, JEE (J2EE), and the Spring framework.
-- Experience with JPA/Hibernate for database interactions.
-- JavaScript, TypeScript.
-- GIT, GitHub.
-- PostgreSQL, MySQL.
-- Proficient in Maven.
-- SoapUI/Postman for testing purposes.
-- Docker.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20&%20Spring-Expert-orange">
+  <img src="https://img.shields.io/badge/Javascript%20&%20Typescript-Intermediate-yellow">
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-Proficient-brightgreen">
+  <img src="https://img.shields.io/badge/Databases%20(PostgreSQL,%20MySQL)-Skilled-blue">
+  <img src="https://img.shields.io/badge/Maven-Proficient-lightgrey">
+  <img src="https://img.shields.io/badge/Testing%20(SoapUI,%20Postman)-Skilled-lightblue">
+  <img src="https://img.shields.io/badge/Docker-Proficient-blueviolet">
+</p>
 
 ## Certifications
-- AZURE FUNDAMENTAL Microsoft.
-- AZURE DATA FUNDAMENTAL Microsoft.
-- TESTING FOUNDATION Coursera.
+<p align="center">
+  <img src="https://img.shields.io/badge/AZURE%20FUNDAMENTAL-Microsoft-blue">
+  <img src="https://img.shields.io/badge/AZURE%20DATA%20FUNDAMENTAL-Microsoft-blue">
+  <img src="https://img.shields.io/badge/TESTING%20FOUNDATION-Coursera-brightgreen">
+</p>
 
 ## Soft Skills
 - Self-starter, self-motivated, and a strong team player.
