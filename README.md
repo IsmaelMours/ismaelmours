@@ -1,34 +1,54 @@
-# Hi there! 👋 I'm Ismael
+# Ismael Mours - Backend Developer
 
-## A passionate Backend Developer from South Africa
+Johannesburg, Gauteng  
+Email: monnapuleismaelmours@gmail.com  
+Phone: +27-730-662-618
 
-![Profile Views](https://komarev.com/ghpvc/?username=ismaelmours&label=Profile%20views&color=0e75b6&style=flat)
+## Summary
+Experienced Backend Developer with over three years in full-stack development, specializing in Java and Spring Boot. Adept at crafting scalable solutions, prioritizing code quality, and optimizing performance for RESTful API design and seamless database integration.
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ismaelmours&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+## Education
+**National Diploma: Software Development**  
+*Tshwane University of Technology*  
+*2018-02 : 2021-05*
 
-- 🔭 Currently working on **Learning Management System**
-- 🌱 Learning **Apache Kafka**
-- 👯 Open to collaborate on [Virtual Exhibition](https://github.com/jeevaathecoder/VirtualExhibition)
-- 💬 Ask me about **React, Spring Boot, SQL**
-- 📫 Reach me at [monnapuleismaelmours@gmail.com](mailto:monnapuleismaelmours@gmail.com)
+## Professional Experience
 
-### Connect with me:
+### Tshimologong Precinct | 2023 - Present
+- Collaborated within a team to develop and maintain back-end solutions for a specialized software application.
+- Demonstrated proficiency in Java, JEE (J2EE) server-side technologies, and the Spring Framework.
+- Successfully integrated Web/RESTful services and JMS to enhance application functionality.
+- Utilized IBM MQ and Websphere for efficient messaging and communication within the software environment.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael%20mours-blue)](https://linkedin.com/in/ismael%20mours)
-[![Facebook](https://img.shields.io/badge/Facebook-king%20skilly-blue)](https://fb.com/king%20skilly)
-[![YouTube](https://img.shields.io/badge/YouTube-king%20skilly-red)](https://www.youtube.com/c/king%20skilly)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ismael%20mours-brightgreen)](https://www.hackerrank.com/ismael%20mours)
+### Dynamic DNA | 2022-01 - 2023-04
+- Responsible for using source control applications, primarily GIT, for version control.
+- Actively participated in Software Development Life Cycle (SDLC) processes, ensuring adherence to software development methodologies.
+- Conducted thorough unit testing, collaborated on quality testing phases, and ensured the delivery of production-quality software.
+- Gained experience with IBM MQ and Websphere for effective messaging and communication within the software environment.
 
-### Languages and Tools:
+### Freelancer | 2020-02 - 2020-12
+- Implemented containerization strategies with Docker to ensure consistent and reliable application environments throughout the development and deployment processes.
+- Utilized GitHub for version control, streamlining collaboration, code tracking, and deployment workflows.
 
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
-![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
-![Chart.js](https://www.chartjs.org/media/logo-title.svg)
-<!-- Add more images for your tools and languages -->
+## Technical Skills
+- Java, JEE (J2EE), and the Spring framework.
+- Experience with JPA/Hibernate for database interactions.
+- JavaScript, TypeScript.
+- GIT, GitHub.
+- PostgreSQL, MySQL.
+- Proficient in Maven.
+- SoapUI/Postman for testing purposes.
+- Docker.
 
-### GitHub Stats:
+## Certifications
+- AZURE FUNDAMENTAL Microsoft.
+- AZURE DATA FUNDAMENTAL Microsoft.
+- TESTING FOUNDATION Coursera.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmours&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ismaelmours&show_icons=true&locale=en&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismaelmours&theme=radical)
+## Soft Skills
+- Self-starter, self-motivated, and a strong team player.
+- Excellent communication and interpersonal skills.
+- Strong attention to detail and the ability to work under pressure.
+- Results-oriented and committed to meeting deadlines.
+
+Feel free to reach out for collaboration or to discuss exciting opportunities!
