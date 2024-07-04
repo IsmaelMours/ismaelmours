@@ -1,62 +1,37 @@
-# 👨‍💻 Ismael Mours - Backend Developer
+## About me! 💬
 
-<p align="center">
-  <a href="mailto:monnapuleismaelmours@gmail.com"><img src="https://img.shields.io/badge/Email-monnampuleismaelmours%40gmail.com-blue"></a>
-  <a href="tel:+27730662618"><img src="https://img.shields.io/badge/Phone-%2B27%20730%20662%20618-blue"></a>
-</p>
+- <strong>Name:</strong> Ismael Mours
+- <strong>Lives in:</strong> Johannesburg, Gauteng
 
-With over three years of expertise in full-stack development, my primary focus lies in backend technologies, particularly Java and Spring Boot. I excel in crafting scalable solutions, prioritizing backend code quality, and optimizing performance across RESTful API design and seamless database integration.
+#### How to reach me:
+<a href="https://api.whatsapp.com/send?phone=+27730662618"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:monnapuleismaelmours@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ismael-mours-4417a2107/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## 🚀 Professional Experience
+##### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&style=for-the-badge)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Tshimologong Precinct | 2023 - Present
-- Collaborated within a team to develop and maintain back-end solutions for a specialized software application.
-- Demonstrated proficiency in Java, JEE (J2EE) server-side technologies, and the Spring Framework.
-- Successfully integrated Web/RESTful services and JMS to enhance application functionality.
-- Utilized IBM MQ and Websphere for efficient messaging and communication within the software environment.
+##### Frameworks:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-0000FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-### Dynamic DNA | 2022-01 - 2023-04
-- Responsible for using source control applications, primarily GIT, for version control.
-- Actively participated in Software Development Life Cycle (SDLC) processes, ensuring adherence to software development methodologies.
-- Conducted thorough unit testing, collaborated on quality testing phases, and ensured the delivery of production-quality software.
-- Gained experience with IBM MQ and Websphere for effective messaging and communication within the software environment.
+#### Databases:
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Freelancer | 2020-02 - 2020-12
-- Implemented containerization strategies with Docker to ensure consistent and reliable application environments throughout the development and deployment processes.
-- Utilized GitHub for version control, streamlining collaboration, code tracking, and deployment workflows.
+#### Other Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20&%20Spring-Expert-orange">
-  <img src="https://img.shields.io/badge/Javascript%20&%20Typescript-Intermediate-yellow">
-  <img src="https://img.shields.io/badge/Git%20&%20GitHub-Proficient-brightgreen">
-  <img src="https://img.shields.io/badge/Databases%20(PostgreSQL,%20MySQL)-Skilled-blue">
-  <img src="https://img.shields.io/badge/Maven-Proficient-lightgrey">
-  <img src="https://img.shields.io/badge/Testing%20(SoapUI,%20Postman)-Skilled-lightblue">
-  <img src="https://img.shields.io/badge/Docker-Proficient-blueviolet">
-</p>
 
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AZURE%20FUNDAMENTAL-Microsoft-blue">
-  <img src="https://img.shields.io/badge/AZURE%20DATA%20FUNDAMENTAL-Microsoft-blue">
-  <img src="https://img.shields.io/badge/TESTING%20FOUNDATION-Coursera-brightgreen">
-</p>
-
-## 🌈 Soft Skills
-
-- Self-starter, self-motivated, and a strong team player.
-- Excellent communication and interpersonal skills.
-- Strong attention to detail and the ability to work under pressure.
-- Results-oriented and committed to meeting deadlines.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/w/ryantusi/Github_Profile_README_Generator?style=flat-square" alt="Commit Activity">
-  <a href="https://github.com/ryantusi/Github_Profile_README_Generator"><img src="https://img.shields.io/badge/GitHub-Repository-brightgreen.svg?style=flat-square"></a>
-</p>
-
-Feel free to reach out for collaboration or to discuss exciting opportunities!
+![Ismael Mours's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelmours&theme=graywhite&show_icons=true)
